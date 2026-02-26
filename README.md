@@ -34,7 +34,8 @@ Download full-resolution images, GIFs, and videos from your Pinterest boards. Ru
 Download the `.dmg` from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest), open it, and drag PinBoard to your Applications folder.
 
 ### Windows
-Download the `.exe` installer from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest) and run it.
+Coming Soon...
+<!-- Download the `.exe` installer from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest) and run it. -->
 
 ## Quick Start
 
