@@ -20,7 +20,7 @@ Download full-resolution images, GIFs, and videos from your Pinterest boards. Ru
 
 | | Free | Pro ($14) |
 |---|---|---|
-| Images | ✓ (25 per board) | ✓ Unlimited |
+| Images | ✓ (100 per board) | ✓ Unlimited |
 | GIFs | — | ✓ |
 | Videos | — | ✓ |
 | Private boards | — | ✓ |
