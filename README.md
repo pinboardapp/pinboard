@@ -18,23 +18,26 @@ Download full-resolution images, GIFs, and videos from your Pinterest boards. Ru
 
 ## Free vs Pro
 
-| | Free | Pro ($14) |
-|---|---|---|
-| Images | ✓ (100 per board) | ✓ Unlimited |
-| GIFs | — | ✓ |
-| Videos | — | ✓ |
-| Private boards | — | ✓ |
-| Devices | 1 | Up to 3 |
+|                | Free              | Pro ($5)    |
+| -------------- | ----------------- | ----------- |
+| Images         | ✓ (100 per board) | ✓ Unlimited |
+| GIFs           | —                 | ✓           |
+| Videos         | —                 | ✓           |
+| Private boards | —                 | ✓           |
+| Devices        | 1                 | Up to 3     |
 
 **[Get Pro →](https://pinboard-download.vercel.app/#pricing)**
 
 ## Download
 
 ### macOS
+
 Download the `.dmg` from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest), open it, and drag PinBoard to your Applications folder.
 
 ### Windows
+
 Coming Soon...
+
 <!-- Download the `.exe` installer from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest) and run it. -->
 
 ## Quick Start
