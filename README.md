@@ -2,19 +2,96 @@
 
 **Save and back up your Pinterest boards locally.**
 
-Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your machine — no proxies, no cloud, no data collection.
+Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer — no proxies, no cloud, no data collection.
 
-→ **[Download for Free](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://pinboard-download.vercel.app) · [FAQ](https://pinboard-download.vercel.app/#faq) · [Report a Bug](https://pinboard-download.vercel.app/#report)
+→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://pinboard-download.vercel.app) · [FAQ](https://pinboard-download.vercel.app/#faq) · [Report a Bug](https://pinboard-download.vercel.app/#report)
+
+---
+
+## Download & Install
+
+Go to the **Releases page** and download the latest version for your system:
+
+**https://github.com/pinboardapp/pinboard/releases/latest**
+
+Always download from the **latest release** to ensure you have the newest version and fixes.
+
+### macOS
+
+1. Download `PinBoard-x.x.x.dmg`
+2. Open the file
+3. Drag PinBoard into your Applications folder
+4. Open PinBoard
+
+macOS will show a security warning the first time because the app is not code-signed yet.
+
+To open it:
+
+- Click **Done**
+- Open **System Settings**
+- Go to **Privacy & Security**
+- Scroll down
+- Click **Open Anyway**
+- Enter your password
+
+This only needs to be done once.
+
+---
+
+### Windows
+
+1. Download `PinBoard Setup x.x.x.exe`
+2. Run the installer
+3. If Windows shows **"Windows protected your PC"**
+4. Click **More info**
+5. Click **Run anyway**
+
+The app will install normally.
+
+---
+
+## How to Use
+
+1. Open PinBoard
+2. Paste a Pinterest board URL  
+   Example:  
+   `https://www.pinterest.com/username/board-name/`
+
+3. Click **Load Board**
+4. Select Images, GIFs, or Videos
+5. Click **Download**
+
+That’s it.
+
+No DevTools. No manual setup.
 
 ---
 
 ## Features
 
-- **Images & GIFs** — Full-resolution originals (JPG, PNG, GIF)
-- **Video downloads** — Automatically converts HLS streams to MP4
-- **Private boards** — Access your own private boards with session cookies
-- **Browse & pick** — Preview every file before downloading, or grab them all at once
-- **100% local** — Everything runs on your machine, nothing leaves your computer
+- Download full-resolution images
+- Download GIFs
+- Download videos (converted to MP4)
+- Supports public boards
+- Supports private boards (Pro)
+- Built-in Pinterest login
+- Fast and reliable downloads
+- Runs entirely locally
+- No tracking or analytics
+
+---
+
+## Private Boards (Pro)
+
+PinBoard includes built-in Pinterest login.
+
+- Click **Sign in to Pinterest**
+- Log in normally
+- Download your private boards
+
+Your login happens directly with Pinterest. PinBoard never sees or stores your password.
+
+---
 
 ## Free vs Pro
 
@@ -28,60 +105,45 @@ Download full-resolution images, GIFs, and videos from your Pinterest boards. Ru
 
 **[Get Pro →](https://pinboard-download.vercel.app/#pricing)**
 
-## Download
+---
 
-### macOS
+## Privacy
 
-Download the `.dmg` from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest), open it, and drag PinBoard to your Applications folder.
+PinBoard runs entirely on your computer.
 
-### Windows
+- No servers
+- No uploads
+- No tracking
+- No data collection
 
-Coming Soon...
+When signing in, your credentials go directly to Pinterest.
 
-<!-- Download the `.exe` installer from the [latest release](https://github.com/pinboardapp/pinboard/releases/latest) and run it. -->
+PinBoard only stores session cookies locally so it can access your boards.
 
-## Quick Start
+---
 
-### Public boards
+## Website
 
-1. Open a Pinterest board in your browser
-2. Open **DevTools** → **Network** tab → scroll the board
-3. Find the `BoardFeedResource` request → copy the `board_id` from the URL
-4. Enter the **Board ID**, **username**, and **board slug** in PinBoard
-5. Hit **Load Board** → download what you need
+https://pinboard-download.vercel.app
 
-### Private boards (Pro)
-
-For your own private boards, you'll also need your Pinterest session cookies:
-
-1. Open DevTools → Network → find `BoardFeedResource`
-2. Go to Headers → find the `cookie:` header
-3. Copy these 4 values: `csrftoken`, `_routing_id`, `_pinterest_sess`, `_b`
-4. Paste them into PinBoard's "Private board cookies" section
-
-> **Tip:** Cookies expire when your Pinterest session ends. If downloads stop working, just grab fresh cookies from DevTools.
-
-For detailed steps with screenshots, see the [setup guide](https://pinboard-download.vercel.app/#setup).
-
-## FAQ
-
-**Do I need cookies for public boards?**
-No. Just the Board ID, username, and board slug.
-
-**Is my data safe?**
-PinBoard runs entirely on your machine. No analytics, no tracking, no data collection. Your cookies and pins never leave your computer.
-
-**Can I use my license on multiple computers?**
-Yes — each Pro license works on up to 3 machines.
-
-**How do video downloads work?**
-Pinterest serves videos as HLS streams. PinBoard includes bundled ffmpeg that converts them to standard MP4 files automatically.
+---
 
 ## Support
 
-- [FAQ](https://pinboard-download.vercel.app/#faq)
-- [Report a Bug](https://pinboard-download.vercel.app/#report)
+FAQ  
+https://pinboard-download.vercel.app/#faq
 
-## License
+Report a Bug  
+https://pinboard-download.vercel.app/#report
 
-This software is proprietary. See [LICENSE](LICENSE) for details.
+---
+
+## Important
+
+Always download PinBoard from the official GitHub Releases page:
+
+https://github.com/pinboardapp/pinboard/releases/latest
+
+This ensures you get the latest version safely.
+
+---
