@@ -1,4 +1,4 @@
-# PinBoard
+# PinBoard – Pinterest Board Downloader
 
 **Save and back up your Pinterest boards locally.**
 
