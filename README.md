@@ -1,8 +1,8 @@
-# PinBoard – Pinterest Board Downloader
+# PinBoard - Pinterest Board Downloader
 
 **Save and back up your Pinterest boards locally.**
 
-Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer — no proxies, no cloud, no data collection.
+Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer, no proxies, no cloud, no data collection.
 
 → **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://pinboard-download.vercel.app) · [FAQ](https://pinboard-download.vercel.app/#faq) · [Report a Bug](https://pinboard-download.vercel.app/#report)
 
@@ -14,11 +14,11 @@ Go to the **Releases page** and download the latest version for your system:
 
 **https://github.com/pinboardapp/pinboard/releases/latest**
 
-Scroll down to the **Assets** section at the bottom of the release page — that's where the download files are. Click the file for your system:
+Scroll down to the **Assets** section at the bottom of the release page -> that's where the download files are. Click the file for your system:
 
-- **macOS** — `PinBoard-x.x.x.dmg` (Apple Silicon)
-- **Windows** — `PinBoard Setup x.x.x.exe` (x64)
-- **Linux** — `PinBoard-x.x.x.AppImage` (x64)
+- **macOS**: `PinBoard-x.x.x.dmg` (Apple Silicon)
+- **Windows**: `PinBoard Setup x.x.x.exe` (x64)
+- **Linux**: `PinBoard-x.x.x.AppImage` (x64)
 
 Always download from the **latest release** to ensure you have the newest version and fixes.
 
@@ -63,7 +63,7 @@ The app will install normally.
    (or run `chmod +x PinBoard-*.AppImage` in a terminal)
 3. Double-click the file to run PinBoard
 
-No installation needed — the AppImage runs directly. You can move it anywhere you like.
+No installation needed, the AppImage runs directly. You can move it anywhere you like.
 
 Works on most distributions including Ubuntu, Fedora, and others.
 
@@ -118,9 +118,9 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 |                | Free              | Pro ($5)    |
 | -------------- | ----------------- | ----------- |
 | Images         | ✓ (100 per board) | ✓ Unlimited |
-| GIFs           | —                 | ✓           |
-| Videos         | —                 | ✓           |
-| Private boards | —                 | ✓           |
+| GIFs           | -                 | ✓           |
+| Videos         | -                 | ✓           |
+| Private boards | -                 | ✓           |
 | Devices        | 1                 | Up to 3     |
 
 **[Get Pro →](https://pinboard-download.vercel.app/#pricing)**
