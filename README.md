@@ -14,6 +14,12 @@ Go to the **Releases page** and download the latest version for your system:
 
 **https://github.com/pinboardapp/pinboard/releases/latest**
 
+Scroll down to the **Assets** section at the bottom of the release page — that's where the download files are. Click the file for your system:
+
+- **macOS** — `PinBoard-x.x.x.dmg` (Apple Silicon)
+- **Windows** — `PinBoard Setup x.x.x.exe` (x64)
+- **Linux** — `PinBoard-x.x.x.AppImage` (x64)
+
 Always download from the **latest release** to ensure you have the newest version and fixes.
 
 ### macOS
@@ -50,6 +56,19 @@ The app will install normally.
 
 ---
 
+### Linux
+
+1. Download `PinBoard-x.x.x.AppImage`
+2. Right-click the file → **Properties** → **Permissions** → check **Allow executing file as program**
+   (or run `chmod +x PinBoard-*.AppImage` in a terminal)
+3. Double-click the file to run PinBoard
+
+No installation needed — the AppImage runs directly. You can move it anywhere you like.
+
+Works on most distributions including Ubuntu, Fedora, and others.
+
+---
+
 ## How to Use
 
 1. Open PinBoard
@@ -61,7 +80,7 @@ The app will install normally.
 4. Select Images, GIFs, or Videos
 5. Click **Download**
 
-That’s it.
+That's it.
 
 No DevTools. No manual setup.
 
@@ -78,6 +97,7 @@ No DevTools. No manual setup.
 - Fast and reliable downloads
 - Runs entirely locally
 - No tracking or analytics
+- Available on macOS (Apple Silicon), Windows (x64), and Linux (x64)
 
 ---
 
@@ -104,6 +124,8 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 | Devices        | 1                 | Up to 3     |
 
 **[Get Pro →](https://pinboard-download.vercel.app/#pricing)**
+
+After activating your license in the app, restart PinBoard to unlock Pro features.
 
 ---
 
