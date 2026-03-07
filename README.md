@@ -1,10 +1,10 @@
-# PinBoard - Pinterest Board Downloader
+# PinBoard: Pinterest Board Downloader
 
 **Save and back up your Pinterest boards locally.**
 
 Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer, no proxies, no cloud, no data collection.
 
-→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://pinboard-download.vercel.app) · [FAQ](https://pinboard-download.vercel.app/#faq) · [Report a Bug](https://pinboard-download.vercel.app/#report)
+→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://getpinboard.com) · [FAQ](https://getpinboard.com/#faq) · [Report a Bug](https://getpinboard.com/#report)
 
 ---
 
@@ -123,7 +123,7 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 | Private boards | -                 | ✓           |
 | Devices        | 1                 | Up to 3     |
 
-**[Get Pro →](https://pinboard-download.vercel.app/#pricing)**
+**[Get Pro →](https://getpinboard.com/#pricing)**
 
 After activating your license in the app, restart PinBoard to unlock Pro features.
 
@@ -146,17 +146,17 @@ PinBoard only stores session cookies locally so it can access your boards.
 
 ## Website
 
-https://pinboard-download.vercel.app
+https://getpinboard.com
 
 ---
 
 ## Support
 
 FAQ  
-https://pinboard-download.vercel.app/#faq
+https://getpinboard.com/#faq
 
 Report a Bug  
-https://pinboard-download.vercel.app/#report
+https://getpinboard.com/#report
 
 ---
 
