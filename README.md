@@ -115,7 +115,7 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 
 ## Free vs Pro
 
-|                | Free              | Pro ($5)    |
+|                | Free              | Pro ($10)   |
 | -------------- | ----------------- | ----------- |
 | Images         | ✓ (100 per board) | ✓ Unlimited |
 | GIFs           | -                 | ✓           |
@@ -169,5 +169,3 @@ https://github.com/pinboardapp/pinboard/releases/latest
 This ensures you get the latest version safely.
 
 ---
-
-
