@@ -14,18 +14,32 @@ Go to the **Releases page** and download the latest version for your system:
 
 **https://github.com/pinboardapp/pinboard/releases/latest**
 
-Scroll down to the **Assets** section at the bottom of the release page -> that's where the download files are. Click the file for your system:
+Scroll down to the **Assets** section at the bottom of the release page. Click the file for your system:
 
-- **macOS**: `PinBoard-x.x.x.dmg` (Apple Silicon)
+- **macOS (Apple Silicon)**: `PinBoard-x.x.x-arm64.dmg`
+- **macOS (Intel)**: `PinBoard-x.x.x-x64.dmg`
 - **Windows**: `PinBoard Setup x.x.x.exe` (x64)
 - **Linux**: `PinBoard-x.x.x.AppImage` (x64)
 
 Always download from the **latest release** to ensure you have the newest version and fixes.
 
+---
+
+### System Requirements
+
+- macOS 10.15 (Catalina) or newer
+- Intel or Apple Silicon Mac
+- Windows 10 or newer (x64)
+- Linux x64 (AppImage, most modern distributions)
+
+---
+
 ### macOS
 
-1. Download `PinBoard-x.x.x.dmg`
-2. Open the file
+1. Download the correct file for your system:
+    - Apple Silicon: `PinBoard-x.x.x-arm64.dmg`
+    - Intel Macs: `PinBoard-x.x.x-x64.dmg`
+2. Open the `.dmg` file
 3. Drag PinBoard into your Applications folder
 4. Open PinBoard
 
@@ -97,7 +111,7 @@ No DevTools. No manual setup.
 - Fast and reliable downloads
 - Runs entirely locally
 - No tracking or analytics
-- Available on macOS (Apple Silicon), Windows (x64), and Linux (x64)
+- Available on macOS (Apple Silicon + Intel), Windows (x64), and Linux (x64)
 
 ---
 
@@ -167,5 +181,3 @@ Always download PinBoard from the official GitHub Releases page:
 https://github.com/pinboardapp/pinboard/releases/latest
 
 This ensures you get the latest version safely.
-
----
