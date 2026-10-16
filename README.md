@@ -27,7 +27,7 @@ Always download from the **latest release** to ensure you have the newest versio
 
 ### System Requirements
 
-- macOS 13 (Ventura) or newer (on macOS 11 or 12, use [v1.2.0](https://github.com/pinboardapp/pinboard/releases/tag/v1.2.0))
+- macOS 13 (Ventura) or newer
 - Intel or Apple Silicon Mac
 - Windows 10 or newer (x64)
 - Linux x64 (AppImage, most modern distributions)
