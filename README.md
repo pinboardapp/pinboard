@@ -27,7 +27,7 @@ Always download from the **latest release** to ensure you have the newest versio
 
 ### System Requirements
 
-- macOS 10.15 (Catalina) or newer
+- macOS 13 (Ventura) or newer (on macOS 11 or 12, use [v1.2.0](https://github.com/pinboardapp/pinboard/releases/tag/v1.2.0))
 - Intel or Apple Silicon Mac
 - Windows 10 or newer (x64)
 - Linux x64 (AppImage, most modern distributions)
@@ -91,8 +91,12 @@ Works on most distributions including Ubuntu, Fedora, and others.
    `https://www.pinterest.com/username/board-name/`
 
 3. Click **Load Board**
-4. Select Images, GIFs, or Videos
+4. Select Images, GIFs, or Videos (or **Everything** to save all of them at once)
 5. Click **Download**
+
+Tip: you can also drag a Pinterest link from your browser and drop it onto PinBoard.
+
+Downloading the same board again only saves the new pins, files you already have are skipped.
 
 That's it.
 
@@ -129,7 +133,7 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 
 ## Free vs Pro
 
-|                | Free              | Pro ($10)   |
+|                | Free              | Pro ($19)   |
 | -------------- | ----------------- | ----------- |
 | Images         | ✓ (100 per board) | ✓ Unlimited |
 | GIFs           | -                 | ✓           |
@@ -139,7 +143,7 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 
 **[Get Pro →](https://getpinboard.com/#pricing)**
 
-After activating your license in the app, restart PinBoard to unlock Pro features.
+Pro is a one-time purchase. Paste your license key in **Settings → Activate** and Pro unlocks right away.
 
 ---
 
