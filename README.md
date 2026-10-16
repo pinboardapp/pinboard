@@ -4,7 +4,7 @@
 
 Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer, no proxies, no cloud, no data collection.
 
-→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://getpinboard.com) · [FAQ](https://getpinboard.com/#faq) · [Report a Bug](https://getpinboard.com/#report)
+→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://www.getpinboard.com) · [FAQ](https://www.getpinboard.com/#faq) · [Report a Bug](https://www.getpinboard.com/#report)
 
 ---
 
@@ -141,7 +141,7 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 | Private boards | -                 | ✓           |
 | Devices        | 1                 | Up to 3     |
 
-**[Get Pro →](https://getpinboard.com/#pricing)**
+**[Get Pro →](https://www.getpinboard.com/#pricing)**
 
 Pro is a one-time purchase. Paste your license key in **Settings → Activate** and Pro unlocks right away.
 
@@ -164,17 +164,17 @@ PinBoard only stores session cookies locally so it can access your boards.
 
 ## Website
 
-https://getpinboard.com
+https://www.getpinboard.com
 
 ---
 
 ## Support
 
 FAQ  
-https://getpinboard.com/#faq
+https://www.getpinboard.com/#faq
 
 Report a Bug  
-https://getpinboard.com/#report
+https://www.getpinboard.com/#report
 
 ---
 
