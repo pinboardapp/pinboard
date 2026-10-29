@@ -4,7 +4,7 @@
 
 Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer, no proxies, no cloud, no data collection.
 
-→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://www.getpinboard.com) · [FAQ](https://www.getpinboard.com/#faq) · [Report a Bug](https://www.getpinboard.com/#report)
+→ **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://www.getpinboard.com) · [FAQ](https://www.getpinboard.com/#faq) · [Feedback & Bugs](https://www.getpinboard.com/#report)
 
 ---
 
@@ -27,7 +27,7 @@ Always download from the **latest release** to ensure you have the newest versio
 
 ### System Requirements
 
-- macOS 13 (Ventura) or newer
+- macOS 13 (Ventura) or newer (on macOS 11 or 12, use [v1.2.0](https://github.com/pinboardapp/pinboard/releases/tag/v1.2.0))
 - Intel or Apple Silicon Mac
 - Windows 10 or newer (x64)
 - Linux x64 (AppImage, most modern distributions)
@@ -91,8 +91,9 @@ Works on most distributions including Ubuntu, Fedora, and others.
    `https://www.pinterest.com/username/board-name/`
 
 3. Click **Load Board**
-4. Select Images, GIFs, or Videos (or **Everything** to save all of them at once)
+4. Pick a tab: **All**, **Images**, **GIFs** or **Videos**. Click pins in the grid to pick just the ones you want
 5. Click **Download**
+6. Optional (Pro): click **Keep backed up** and PinBoard saves new pins from the board every day or week
 
 Tip: you can also drag a Pinterest link from your browser and drop it onto PinBoard.
 
@@ -109,6 +110,8 @@ No DevTools. No manual setup.
 - Download full-resolution images
 - Download GIFs
 - Download videos (converted to MP4)
+- Pick individual pins in a grid, or download a whole board at once
+- Automatic daily or weekly backups (Pro)
 - Supports public boards
 - Supports private boards (Pro)
 - Built-in Pinterest login
@@ -131,15 +134,26 @@ Your login happens directly with Pinterest. PinBoard never sees or stores your p
 
 ---
 
+## Automatic Backups (Pro)
+
+Click **Keep backed up** on a board and PinBoard checks it every day or every week and saves the new pins to your computer.
+
+- Only new pins are downloaded, nothing in your folders is ever deleted, moved or renamed
+- Runs quietly in the menu bar (macOS) or system tray (Windows, Linux) and can open by itself when you log in
+- Backups run while your computer is on and awake, missed ones run when it wakes up
+
+---
+
 ## Free vs Pro
 
-|                | Free              | Pro ($19)   |
-| -------------- | ----------------- | ----------- |
-| Images         | ✓ (100 per board) | ✓ Unlimited |
-| GIFs           | -                 | ✓           |
-| Videos         | -                 | ✓           |
-| Private boards | -                 | ✓           |
-| Devices        | 1                 | Up to 3     |
+|                | Free             | Pro ($19)   |
+| -------------- | ---------------- | ----------- |
+| Images         | ✓ (25 per board) | ✓ Unlimited |
+| GIFs           | -                | ✓           |
+| Videos         | -                | ✓           |
+| Private boards | -                | ✓           |
+| Auto backups   | -                | ✓           |
+| Devices        | 1                | Up to 3     |
 
 **[Get Pro →](https://www.getpinboard.com/#pricing)**
 
