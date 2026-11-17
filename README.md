@@ -4,6 +4,8 @@
 
 Download full-resolution images, GIFs, and videos from your Pinterest boards. Runs entirely on your computer, no proxies, no cloud, no data collection.
 
+<img width="1200" height="630" alt="og-image-1200" src="https://github.com/user-attachments/assets/65ff3601-e108-4dc7-87aa-53df5cea077a" />
+
 → **[Download Latest Release](https://github.com/pinboardapp/pinboard/releases/latest)** · [Website](https://www.getpinboard.com) · [FAQ](https://www.getpinboard.com/#faq) · [Feedback & Bugs](https://www.getpinboard.com/#report)
 
 ---
